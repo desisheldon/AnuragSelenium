@@ -1,0 +1,14 @@
+What is spoke in servicenow ?
+Integration hub in SN
+Flow designer in SN ?
+How does it work ?
+Find duplicate char using hashmap without hashmap
+String programs 
+Remove duplicate characters with count
+API status codes, methods
+
+200 Succcess
+201 Resource Created
+203 Accepted (Request received but not completed)
+
+
